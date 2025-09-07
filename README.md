@@ -12,13 +12,6 @@ Welcome to the **Employee Salary Prediction** app! This Streamlit-powered web ap
 
 ---
 
-## 🚀 Demo
-
-👉 [Launch the WebApp](https://employeesalarypredictor.streamlit.app/)  
-👉 [Project Portfolio](https://aditya-r01.github.io/Portfolio-website/)
-
----
-
 ## 🎯 Features
 
 - 💡 **AI-powered salary prediction** based on user inputs  
@@ -68,11 +61,11 @@ streamlit run app4.py
 
 ## 👨‍💻 About the Author
 
-**Aditya Raj**  
-ECE Undergrad @ Birla Institute of Technology, Mesra  
+**Vinay Kartheek Bathala**  
+CSE Undergrad @ SRMIST-KTR,Chennai,TN
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adityaraj-bit/)  
-- 📸 [Instagram](https://www.instagram.com/adityar_a_j_?igsh=MTZicm1qejZmMWg4MQ==)  
-- 🌐 [Portfolio Website](https://aditya-r01.github.io/Portfolio-website/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bathalavinaykartheek)  
+- 📸 [Instagram](https://www.instagram.com/vnkrthk/)  
+
 
 > Passionate about AI, Data Science, and building intelligent applications that make an impact.
